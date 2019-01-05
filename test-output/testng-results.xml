@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="639" started-at="2018-12-22T01:25:00Z" finished-at="2018-12-22T01:25:01Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.tt.testrunner.Testrunner@7cd62f43]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Nopackage" duration-ms="639" started-at="2018-12-22T01:25:00Z" finished-at="2018-12-22T01:25:01Z">
+      <class name="com.tt.testrunner.Testrunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.tt.testrunner.Testrunner@7cd62f43]" name="setUpClass" is-config="true" duration-ms="394" started-at="2018-12-22T01:25:00Z" finished-at="2018-12-22T01:25:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.tt.testrunner.Testrunner@7cd62f43]" name="tearDownClass" is-config="true" duration-ms="45" started-at="2018-12-22T01:25:01Z" finished-at="2018-12-22T01:25:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.tt.testrunner.Testrunner -->
+    </test> <!-- Nopackage -->
+  </suite> <!-- Suite1 -->
+</testng-results>
